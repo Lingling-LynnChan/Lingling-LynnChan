@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Github Stats
-[![Lingling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingling-LynnChan?locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Lingling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingling-LynnChan&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Top Languages
