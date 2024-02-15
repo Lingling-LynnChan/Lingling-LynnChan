@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 ### Github Stats
 [![Lingling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingling-LynnChan&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingling-LynnChan&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingling-LynnChan&locale=cn)](https://github.com/Lingling-LynnChan)
